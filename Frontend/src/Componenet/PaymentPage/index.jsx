@@ -98,7 +98,7 @@ const CheckoutForm = ({ onClose }) => {
             loading ? "opacity-50 cursor-not-allowed" : ""
           }`}
         >
-          {loading ? "Processing..." : "Pay $10"}
+          {loading ? "Processing..." : "Pay "}
         </button>
       )}
 
